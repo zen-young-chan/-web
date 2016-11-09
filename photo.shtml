@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!--#include file="Include/head.htm"-->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="孙佳" />
+<meta name="description" content="摄影师&设计师">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="stylesheet" href="Style/reset.css">
+<link rel="stylesheet" href="Style/style.css"><!--not rolling-->
+<script src="Scripts/static/prefixfree.min.js" type="text/javascript"></script>
+<script src="Scripts/static/jquery-1.11.1.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+	<script src="Scripts/static/html5.js"></script>
+<![endif]-->
+<title>孙佳</title>
+</head>
+<body>
+
+	<!--#include file="Include/header.htm"-->
+	<!-- Header -->
+	<header id="header" class="ui-ab ui-clear">
+		<div class="brand ui-l">
+			<a href="index.shtml"><img src="Images/logo.jpg" title="" alt=""></a>
+		</div>
+		<nav class="navbar ui-l">
+			<ul>
+				<li>
+					<a href="javascript:;">Work</a>
+					<ul class="navbar-menu">
+						<li><a href="photo.shtml">Photo.</a></li>
+						<li><a href="paint.shtml">Painting.</a></li>
+						<li><a href="web.shtml">web.</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="javascript:;">Me</a>
+					<ul class="navbar-menu">
+						<li><a href="about.shtml">About.</a></li>
+						<li><a href="contact.shtml">Contact.</a></li>
+					</ul>
+				</li>
+				<li><a href="share.shtml">Share</a></li>
+			</ul>
+		</div>
+	</header>
+	<!--//End Header -->
+
+	<!-- Share -->
+	<div class="share ui-ab">
+		<div class="share-icon ui-rel"><span class="ui-icon"></span>分享</div>
+		<a class="share-sina ui-rel" href="javascript:;"><span class="ui-icon"></span></a>
+		<a class="share-d ui-rel" href="javascript:;"><span class="ui-icon"></span></a>
+		<a class="share-zone ui-rel" href="javascript:;"><span class="ui-icon"></span></a>
+		<a class="share-rr ui-rel" href="javascript:;"><span class="ui-icon"></span></a>
+	</div>
+	<!--//End Share -->
+
+	<!-- Container -->
+	<section id="wrapper">
+		<div class="ui-grid">
+
+			<header class="brand-name">
+				<h1>Photo</h1>
+			</header>
+			<header class="">
+				
+			</header>
+
+			<div class="container ui-responsive">
+
+				<section class="photos-item">
+					<div class="ui-grid">
+						<div class="ui-row">
+
+							<div class="ui-col2">
+								<header class="photos-title">
+									<h2><a href="photoinfo.shtml">豆豆一家人</a></h2>
+									<div class="date m-t5">14-5-1</div>
+								<header>
+							</div>
+
+							<div class="ui-col9">
+								<div class="photos-img">
+									<a href="photoinfo.shtml"><img src="Images/photos-img0.jpg" title="" alt=""></a>
+								</div>
+							</div>
+
+							<div class="ui-col1">
+								<div class="photos-num">
+									<span>1</span>/<span>10</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+ 				</section>
+
+				<section class="photos-item">
+					<div class="ui-grid">
+						<div class="ui-row">
+
+							<div class="ui-col2">
+								<header class="photos-title">
+									<h2><a href="photoinfo.shtml">豆豆一家人</a></h2>
+									<div class="date m-t5">14-5-1</div>
+								<header>
+							</div>
+
+							<div class="ui-col9">
+								<div class="photos-img">
+									<a href="photoinfo.shtml"><img src="Images/photos-img1.jpg" title="" alt=""></a>
+								</div>
+							</div>
+
+							<div class="ui-col1">
+								<div class="photos-num">
+									<span>1</span>/<span>10</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+ 				</section>
+
+				<section class="photos-item">
+					<div class="ui-grid">
+						<div class="ui-row">
+
+							<div class="ui-col2">
+								<header class="photos-title">
+									<h2><a href="photoinfo.shtml">豆豆一家人</a></h2>
+									<div class="date m-t5">14-5-1</div>
+								<header>
+							</div>
+
+							<div class="ui-col9">
+								<div class="photos-img">
+									<a href="photoinfo.shtml"><img src="Images/photos-img2.jpg" title="" alt=""></a>
+								</div>
+							</div>
+
+							<div class="ui-col1">
+								<div class="photos-num">
+									<span>1</span>/<span>10</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+ 				</section>
+
+				<section class="photos-item">
+					<div class="ui-grid">
+						<div class="ui-row">
+
+							<div class="ui-col2">
+								<header class="photos-title">
+									<h2><a href="photoinfo.shtml">豆豆一家人</a></h2>
+									<div class="date m-t5">14-5-1</div>
+								<header>
+							</div>
+
+							<div class="ui-col9">
+								<div class="photos-img">
+									<a href="photoinfo.shtml"><img src="Images/photos-img3.jpg" title="" alt=""></a>
+								</div>
+							</div>
+
+							<div class="ui-col1">
+								<div class="photos-num">
+									<span>1</span>/<span>10</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+ 				</section>
+
+				<section class="photos-item">
+					<div class="ui-grid">
+						<div class="ui-row">
+
+							<div class="ui-col2">
+								<header class="photos-title">
+									<h2><a href="photoinfo.shtml">豆豆一家人</a></h2>
+									<div class="date m-t5">14-5-1</div>
+								<header>
+							</div>
+
+							<div class="ui-col9">
+								<div class="photos-img">
+									<a href="photoinfo.shtml"><img src="Images/photos-img4.jpg" title="" alt=""></a>
+								</div>
+							</div>
+
+							<div class="ui-col1">
+								<div class="photos-num">
+									<span>1</span>/<span>10</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+ 				</section>
+
+			</div>
+
+			<div class="page">
+				<a class="icon-prev ui-rel" href="javascript:;">Prev<span class="ui-icon"></span></a>
+				<a class="active" href="javascript:;">1</a>
+				<a href="javascript:;">2</a>
+				<a href="javascript:;">3</a>
+				<a href="javascript:;">4</a>
+				<a class="icon-next ui-rel" href="javascript:;">Next<span class="ui-icon"></span></a>
+			</div>
+
+		</div>
+	</section>
+	<!--//End Container -->
+
+	<!--#include file="Include/footer.htm"-->
+	<!-- Footer -->
+	<footer id="footer">
+		<p>email <a href="Email:2019416499@qq.com"></a>2019416499@qq.com</p>
+		<p>© 2016 copyrights. artsunjia ARCHITECTS.</p>
+	</footer>
+	<!--//End Footer -->
+
+	<!-- Quick -->
+	<div class="quick ui-fixed">
+		<div class="go-top ui-rel">
+			<span class="ui-icon"></span>
+		</div>
+	</div>
+	<!--//End Quick-->
+
+	<script src="Scripts/jquery.utils.js" type="text/javascript"></script>
+	<script src="Scripts/jquery.animate.js" type="text/javascript"></script>
+
+</body>
+</html>
