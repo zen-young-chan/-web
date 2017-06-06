@@ -1,21 +1,24 @@
 # Artsunjia 摄影师个人网站项目
-## Tornado + MongoDB + Nginx ,异步读写数据库
+## Tornado + MongoDB + Nginx  异步读写数据库
 ##### [孙佳个人网站](artsunjia.com)
 
 ### 相关的库
-#### tornado
+#### [tornado](http://www.tornadoweb.org/en/stable/)
 > pip install tornado
-#### pymongo 
+#### [pymongo](https://api.mongodb.com/python/current/)
 > pip install pymongo
-#### motor 
+#### [motor](http://motor.readthedocs.io/en/stable/)
 > pip install motor
-#### pillow
+#### [pillow](https://pypi.python.org/pypi/Pillow)
 > pip install pillow
-
+### [MongoDB](https://docs.mongodb.com/manual/mongo/)
+> 请查看[MongoDB官网教程](https://docs.mongodb.com/manual/installation/)
+### [Nginx](http://nginx.org/en/docs/beginners_guide.html)
+> 本项目使用[ Nginx 反向代理到 tornado] (http://nginx.org/en/docs/beginners_guide.html)
 
 ```
 ### 目录
-├──server
+├──server            //python 2.7.11
 ├──application
 ├──url
 ├──handlers          //每个网页的handler, 使用 Motor 实现异步读写MongoDB
