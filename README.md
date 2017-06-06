@@ -2,19 +2,16 @@
 ## Tornado + MongoDB + Nginx ,异步读写数据库
 ##### [孙佳个人网站](artsunjia.com)
 
-### 支持库
-
+### 相关的库
 #### tornado
 > pip install tornado
-
 #### pymongo 
 > pip install pymongo
-
 #### motor 
 > pip install motor
-
 #### pillow
 > pip install pillow
+
 
 ```
 ### 目录
@@ -22,9 +19,9 @@
 ├──application
 ├──url
 ├──handlers          //每个网页的handler, 使用 Motor 实现异步读写MongoDB
-├  ├──photo
-|  ├──paint
-|  ├──web
+├  ├──photo          //摄影作品网页
+|  ├──paint          //绘画作品网页
+|  ├──web            //网站设计作品网页
 |  ...
 |
 ├──methods          //读取数据库,发邮件等函数工具
