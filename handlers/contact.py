@@ -23,7 +23,7 @@ class ContactHandler(tornado.web.RequestHandler):
 
         if (name!="")&(info!="")&(essay!=""):
             self.render("contact.html",feedback="感谢你的留言")
-            sendemail.send_mail('zengycbetter@163.com', 'xx', ['sunjia <artsunjia@qq.com>', 'young <z.young.c@qq.com>'], 'artsunjia个人网站消息', masg, [])
+            sendemail.send_mail('xxxxx@163.com', 'password', ['收件人1 <xxx@qq.com>', '收件人2 <xxx@qq.com>'], 'artsunjia个人网站消息', masg, [])
             # send a email to SunJia
             id_ = time.strftime("%Y_%m_%d_%H_%M_%S")
             sub = db["contact"].insert_one({"_id":id_, "name": name, "info": info, "essay": essay})
