@@ -37,4 +37,4 @@ def send_mail(mail_from, password, mail_to, subject, text, files):
 # if __name__ == '__main__':
 #     # Example:
 #     # 这里可以任意定制发送者的邮箱地址
-#     send_mail('zengycbetter@163.com', 'xx', ['sun <zengycbetter@163.com>'], 'Hello Python!', 'Say hello to Python! :)', [])
+#     send_mail('xxx@163.com', 'xxxxx', ['xxxxx <xxxxx@163.com>'], 'header', 'container', [])
