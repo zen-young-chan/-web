@@ -13,10 +13,10 @@
 #### motor 
 > pip install motor
 
-### pillow
+#### pillow
 > pip install pillow
 
-'''
+```
 ### 目录
 ├──server
 ├──application
@@ -41,4 +41,4 @@
 |
 ├──templates        //放网页html模板
 |  ...
-'''
+```
