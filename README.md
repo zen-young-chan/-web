@@ -16,6 +16,7 @@
 ### pillow
 > pip install pillow
 
+''''
 ### 目录
 |
 |--server
@@ -41,3 +42,4 @@
 |
 |--templates        //放网页html模板
 |  ...
+'''
