@@ -6,11 +6,11 @@
 #### [tornado](http://www.tornadoweb.org/en/stable/)
 > pip install tornado
 #### [pymongo](https://api.mongodb.com/python/current/) 
-> pip install pymongo  //用于读写mongodb
+> pip install pymongo    //用于读写mongodb
 #### [motor](http://motor.readthedocs.io/en/stable/) 
-> pip install motor  //用于异步读写mongodb, 需要pymongo支持
+> pip install motor    //用于异步读写mongodb, 需要pymongo支持
 #### [pillow](https://pypi.python.org/pypi/Pillow) 
-> pip install pillow  //图片处理, 本项目主要用于图片压缩
+> pip install pillow    //图片处理, 本项目主要用于图片压缩
 ### [MongoDB](https://docs.mongodb.com/manual/mongo/)
 > 请查看[MongoDB官网教程](https://docs.mongodb.com/manual/installation/)
 ### [Nginx](http://nginx.org/en/docs/beginners_guide.html)
