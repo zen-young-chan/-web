@@ -1,0 +1,45 @@
+{% extends "pwi-bases.html" %}
+
+{% block header %}
+<li>
+<a href="/">Work</a>
+<ul class="navbar-menu3">
+<li><a href="/photo/1">Photo.</a></li>
+<li><a href="/painting/1">Painting.</a></li>
+<li><a href="/web/1">Web.</a></li>
+</ul>
+</li>
+<li>
+<a href="/about">Me</a>
+<ul class="navbar-menu">
+<li><a href="/about">About.</a></li>
+<li><a href="/contact">Contact.</a></li>
+</ul>
+</li>
+<!-- <li><a href="/share/1">Share</a></li> -->
+{% end %}
+
+
+{% block album-name %}
+<header class="brand-name">
+<h1>{{escape(ifon["albumname"])}}</h1>
+<br>
+<div class="date m-t5">&nbsp {{escape(ifon["photocatchdate"])}}</div>
+<br>
+<div class="date m-t5">&nbsp web</div>
+</header>
+{% end %}
+
+
+
+{% block album-list %}
+    {% for i in dress %}
+    <img src="{{static_url(escape(i))}}" title="" alt="">
+    {% end %}
+{% end %}
+
+
+
+{% block album-essay %}
+<p>{{escape(ifon["albumintroduction"])}}</p>
+{% end %}
