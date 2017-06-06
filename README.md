@@ -16,7 +16,7 @@
 ### pillow
 > pip install pillow
 
-''''
+'''
 ### 目录
 ├──server
 ├──application
