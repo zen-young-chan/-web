@@ -2,10 +2,10 @@
 ### Tornado + MongoDB + Nginx
 ##### [孙佳个人网站](artsunjia.com)
 
-### [MongoDB](https://docs.mongodb.com/manual/mongo/)
+### [MongoDB]
 > 请查看[MongoDB官网教程](https://docs.mongodb.com/manual/installation/)
-### [Nginx](http://nginx.org/en/docs/beginners_guide.html)
-> 本项目使用[ Nginx 反向代理到 tornado] (http://nginx.org/en/docs/beginners_guide.html)
+### [Nginx]
+> 本项目使用[Nginx 反向代理到 tornado] (http://nginx.org/en/docs/beginners_guide.html)
 ### Postfix  //SMTP 发邮件需要
 >sudo apt-get install postfix
 
