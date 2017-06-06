@@ -1,15 +1,15 @@
 # Artsunjia 摄影师个人网站项目
-## Tornado + MongoDB + Nginx  异步读写数据库
+### Tornado + MongoDB + Nginx
 ##### [孙佳个人网站](artsunjia.com)
 
 ### 相关的库
 #### [tornado](http://www.tornadoweb.org/en/stable/)
 > pip install tornado
-#### [pymongo](https://api.mongodb.com/python/current/)
+#### [pymongo](https://api.mongodb.com/python/current/) 用于读写mongodb
 > pip install pymongo
-#### [motor](http://motor.readthedocs.io/en/stable/)
+#### [motor](http://motor.readthedocs.io/en/stable/) 用于异步读写mongodb, 需要pymongo支持
 > pip install motor
-#### [pillow](https://pypi.python.org/pypi/Pillow)
+#### [pillow](https://pypi.python.org/pypi/Pillow) 图片处理, 本项目主要用于图片压缩
 > pip install pillow
 ### [MongoDB](https://docs.mongodb.com/manual/mongo/)
 > 请查看[MongoDB官网教程](https://docs.mongodb.com/manual/installation/)
