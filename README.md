@@ -5,7 +5,7 @@
 ### MongoDB
 > 请查看[MongoDB官网教程](https://docs.mongodb.com/manual/installation/)
 ### Nginx
-> 本项目使用[Nginx 反向代理到 tornado] (http://nginx.org/en/docs/beginners_guide.html)
+> 本项目使用[Nginx 反向代理到 tornado](http://nginx.org/en/docs/beginners_guide.html)
 ### Postfix  
 >sudo apt-get install postfix //smtplib 发邮件外部支持
 
