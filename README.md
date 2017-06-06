@@ -16,8 +16,9 @@
 ### [Nginx](http://nginx.org/en/docs/beginners_guide.html)
 > 本项目使用[ Nginx 反向代理到 tornado] (http://nginx.org/en/docs/beginners_guide.html)
 
-```
 ### 目录
+```
+
 ├──server            //python 2.7.11
 ├──application
 ├──url
